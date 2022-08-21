@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 17 Aug 2022 21:26:44 at https://html.tavonline.co/berlin/main/diagonal-slider.html#home +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://html.tavonline.co/berlin/main/diagonal-slider.html#home
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://html.tavonline.co/berlin/main/diagonal-slider.html#home -O1 "C:\Users\HP\Desktop\portfolioo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://html.tavonline.co/berlin/main/diagonal-slider.html#home )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:27:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+21:27:15	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/home (from primary/primary)
+21:27:18	Error: 	"Not Found" (404) at link https://html.tavonline.co/berlin/main/favicon.ico (from https://html.tavonline.co/berlin/main/diagonal-slider.html)
+21:27:39	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
+21:27:41	Error: 	"Not Found" (404) at link https://html.tavonline.co/berlin/main/fonts/glyphicons-halflings-regular.eot (from https://html.tavonline.co/berlin/main/css/bootstrap.css)
+21:27:41	Error: 	"Not Found" (404) at link https://html.tavonline.co/berlin/main/fonts/glyphicons-halflings-regular.eot? (from https://html.tavonline.co/berlin/main/css/bootstrap.css)
+21:27:41	Error: 	"Not Found" (404) at link https://html.tavonline.co/berlin/main/fonts/glyphicons-halflings-regular.woff2 (from https://html.tavonline.co/berlin/main/css/bootstrap.css)
+21:27:41	Error: 	"Not Found" (404) at link https://html.tavonline.co/berlin/main/fonts/glyphicons-halflings-regular.woff (from https://html.tavonline.co/berlin/main/css/bootstrap.css)
+21:27:41	Error: 	"Not Found" (404) at link https://html.tavonline.co/berlin/main/fonts/glyphicons-halflings-regular.ttf (from https://html.tavonline.co/berlin/main/css/bootstrap.css)
+21:27:41	Error: 	"Not Found" (404) at link https://html.tavonline.co/berlin/main/fonts/glyphicons-halflings-regular.svg (from https://html.tavonline.co/berlin/main/css/bootstrap.css)
+21:27:41	Error: 	"Not Found" (404) at link https://html.tavonline.co/berlin/main/images/home.jpg (from https://html.tavonline.co/berlin/main/css/style.css)
+21:27:43	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 59 seconds : 67 links scanned, 54 files written (3770091 bytes overall) [3385348 bytes received at 57378 bytes/sec], 580567 bytes transferred using HTTP compression in 31 files, ratio 29%, 4.2 requests per connection
+(10 errors, 2 warnings, 0 messages)
